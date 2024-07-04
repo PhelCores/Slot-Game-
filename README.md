@@ -1,2 +1,1 @@
-# Slot-Game-
-# Slot-Game-
+Simple slot game made with html css & js
